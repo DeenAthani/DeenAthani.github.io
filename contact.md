@@ -3,24 +3,11 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Email: [staymu1@wgu.edu](mailto:staymu1@wgu.edu)
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [UpScrolled](https://share.upscrolled.com/en/user/8ade2109-1a89-498b-8df0-0801f69517ce/)
+2. [Twitter](https://x.com/Athani_X)
