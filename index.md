@@ -3,7 +3,7 @@
 layout: default
 ---
 
-## **Salah al-Din "at-Thani" Taymullah
+## **Salah al-Din "at-Thani" Taymullah**
 
 ## About Me
 
