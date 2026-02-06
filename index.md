@@ -1,15 +1,9 @@
 
----
-layout: default
----
-
-## **Salah al-Din "at-Thani" Taymullah**
-
 ## About Me
 
 <img class="profile-picture" src="A94FAFCF-638B-439F-8F03-522AFF82AEB0.jpeg">
 
-I am a student of B.S. Computer Science at Western Governors University, focused on **AI, ML, and mathematical computing**.
+I am a student of B.S. Computer Science at Western Governors University, focused on **AI, ML, and scientific computing**.
 
 ## Research Interest
 
