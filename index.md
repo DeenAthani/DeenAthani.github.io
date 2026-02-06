@@ -7,7 +7,7 @@ I am a student of B.S. Computer Science at Western Governors University, focused
 
 ## Research Interest
 
-Primary interests lie at the intersection of **mathematics, and systems engineering**. Particularly focused on **Machine Learning** (with an emphasis on **Computer Vision**).
+Primary interests lie at the intersection of **mathematics, and systems engineering**. Particularly focused on **Computer Vision** and **Machine Translation**.
 
 Current areas of investigation include:
 
