@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Salah al-Din at-Thani Taymullah
+url: "https://DeenAthani.github.io"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,17 +8,23 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/DeenAthani"
+footer_text: "© 2026 Salah al-Din Taymullah"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+  - name: "About"
+    link: "/"
+  - name: "Research"
+    link: "research"
+  - name: "Publications"
+    link: "publications"
+  - name: "Resume"
+    link: "resume.pdf"
+  - name: "Blog"
+    link: "https://deenathani.hashnode.dev"
+  - name: "Contact"
+    link: "contact"
