@@ -24,7 +24,6 @@ Current areas of investigation include:
 
 ---
 
-Here is a blockquote
 
 > "Do not give up, for that is ignorance and
 not according to the rules of this art.
