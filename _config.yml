@@ -5,11 +5,14 @@ baseurl: ""
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
+description: "B.S. Computer Science student at WGU focused on AI, ML, and scientific computing."
+author: "Salah al-Din at-Thani Taymullah"
+
 tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/DeenAthani"
-footer_text: "© 2026 Salah al-Din Taymullah"
+footer_text: "© 2026 Salah al-Din at-Thani Taymullah"
 
 sass:
     style: compressed
@@ -22,8 +25,6 @@ nav:
     link: "research"
   - name: "Publications"
     link: "publications"
-  - name: "Resume"
-    link: "resume.pdf"
   - name: "Blog"
     link: "https://deenathani.hashnode.dev"
   - name: "Contact"

@@ -1,28 +1,37 @@
-
-## About Me
+---
+layout: default
+---
 
 <img class="profile-picture" src="A94FAFCF-638B-439F-8F03-522AFF82AEB0.jpeg">
 
-I am a student of B.S. Computer Science at Western Governors University, focused on **AI, ML, and scientific computing**.
+# Salah al-Din at-Thani Taymullah
 
-## Research Interest
+<p class="about-subtitle">B.S. Computer Science · Western Governors University</p>
 
-Primary interests lie at the intersection of **mathematics, and systems engineering**. Particularly focused on **Computer Vision** and **Machine Translation**.
+I am a student of B.S. Computer Science at [Western Governors University](https://www.wgu.edu/), focused on **AI, ML, and scientific computing**. My primary interests lie at the intersection of mathematics and systems engineering, with particular focus on **Computer Vision** and **Machine Translation**.
 
-Current areas of investigation include:
+Feel free to reach out through my [email](mailto:staymu1@wgu.edu) or find me on [Twitter](https://x.com/Athani_X).
 
-* LLM Research: machines understanding human language
-* Computer Vision: visual perception and scene understanding
-* NeuroAI: bridging neuroscience and machine learning
-* Robotics: embodied intelligence and sensorimotor learning
+## Research Interests
 
+<ul class="research-areas">
+  <li class="research-area-item"><strong>LLM Research</strong> — machines understanding human language</li>
+  <li class="research-area-item"><strong>Computer Vision</strong> — visual perception and scene understanding</li>
+  <li class="research-area-item"><strong>NeuroAI</strong> — bridging neuroscience and machine learning</li>
+  <li class="research-area-item"><strong>Robotics</strong> — embodied intelligence and sensorimotor learning</li>
+</ul>
+
+## Latest Posts
+
+|  |  |
+| --- | --- |
+| 2026 | Posts coming soon — follow along on [Hashnode](https://deenathani.hashnode.dev) |
 
 ## Publications
 
-1. None yet, come back in Q3 2026.
+1. None yet — check back in Q3 2026.
 
 ---
-
 
 > "Do not give up, for that is ignorance and
 not according to the rules of this art.

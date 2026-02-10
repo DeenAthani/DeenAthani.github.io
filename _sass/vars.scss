@@ -1,14 +1,33 @@
 /*
- * Customization Variables
+ * Design Tokens
+ * Refined academic aesthetic — warm, authoritative, legible
  */
 
-$accent: #FF0F00;
-$image-size: 85px;
+/* Colors */
+$accent: #b45309;         /* warm amber — scholarly, distinctive */
+$accent-light: #fef3c7;   /* soft amber wash */
+$accent-hover: #92400e;
+$text-primary: #1c1917;   /* stone-950 */
+$text-secondary: #57534e; /* stone-600 */
+$text-muted: #a8a29e;     /* stone-400 */
+$border: #e7e5e4;         /* stone-200 */
+$border-light: #f5f5f4;   /* stone-100 */
+$bg: #ffffff;
+$bg-subtle: #fafaf9;      /* stone-50 */
+$bg-code: #f5f5f4;
 
-/*
- * Build Variables, don't touch
- */
+/* Typography */
+$font-serif: 'Source Serif 4', 'Georgia', serif;
+$font-sans: 'DM Sans', 'Helvetica Neue', sans-serif;
+$font-mono: 'JetBrains Mono', 'Menlo', monospace;
 
-$max-width: 700px;
-$med-width: 600px;
-$small-width: 480px;
+/* Profile */
+$image-size: 160px;
+
+/* Layout */
+$max-width: 780px;
+$med-width: 640px;
+$small-width: 520px;
+
+/* Transitions */
+$transition: 0.2s ease;
