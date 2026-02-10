@@ -6,9 +6,9 @@ layout: default
 
 # Salah al-Din at-Thani Taymullah
 
-<p class="about-subtitle">B.S. Computer Science · Western Governors University</p>
+<p class="about-subtitle">B.S. Computer Science · <a href="https://wgu.edu">Western Governors University</a></p>
 
-I am a student of B.S. Computer Science at [Western Governors University](https://www.wgu.edu/), focused on **AI, ML, and scientific computing**. My primary interests lie at the intersection of mathematics and systems engineering, with particular focus on **Computer Vision** and **Machine Translation**.
+Focus is in **AI, ML, and scientific computing**. My primary interests lie at the intersection of mathematics and systems engineering, with particular focus on **Computer Vision** and **Machine Translation**.
 
 Feel free to reach out through my [email](mailto:staymu1@wgu.edu) or find me on [Twitter](https://x.com/Athani_X).
 
