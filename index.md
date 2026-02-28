@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="A94FAFCF-638B-439F-8F03-522AFF82AEB0.jpeg">
 
-# Salah al-Din at-Thani
+# Salah al-Din Al-Thani
 
 <p class="about-subtitle">B.S. Computer Science · <a href="https://wgu.edu">Western Governors University</a></p>
 
@@ -40,4 +40,4 @@ killing cannot imagine the agony and
 pain of a practitioner of this honorable
 science...You cannot hope to achieve
 success without infinite perseverance."
-— Muhammad ibn Muhammad al-Fulani al-Kishnawi
+— Muhammad ibn Muhammad Al-Fulani Al-Kishnawi
