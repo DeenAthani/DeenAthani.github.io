@@ -1,4 +1,4 @@
-title: Salah al-Din at-Thani Taymullah
+title: Salah al-Din at-Thani
 url: "https://DeenAthani.github.io"
 baseurl: ""
 
@@ -6,13 +6,13 @@ markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 description: "B.S. Computer Science student at WGU focused on AI, ML, and scientific computing."
-author: "Salah al-Din at-Thani Taymullah"
+author: "Salah al-Din T."
 
 tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/DeenAthani"
-footer_text: "© 2026 Salah al-Din at-Thani Taymullah"
+footer_text: "© 2026 Salah al-Din T."
 
 sass:
     style: compressed
