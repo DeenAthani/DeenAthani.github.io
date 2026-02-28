@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="A94FAFCF-638B-439F-8F03-522AFF82AEB0.jpeg">
 
-# Salah al-Din at-Thani Taymullah
+# Salah al-Din at-Thani
 
 <p class="about-subtitle">B.S. Computer Science · <a href="https://wgu.edu">Western Governors University</a></p>
 
