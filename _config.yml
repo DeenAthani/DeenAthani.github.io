@@ -5,7 +5,7 @@ baseurl: ""
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-description: "B.S. Computer Science student at WGU focused on AI, ML, and scientific computing."
+description: "Researcher building neural machine translation systems. B.S. Computer Science, WGU."
 author: "Salah al-Din T."
 
 tracking_id: #
