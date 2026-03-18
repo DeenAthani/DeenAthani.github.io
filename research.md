@@ -11,6 +11,6 @@ My research centers on machine translation for African languages — specificall
 
 My primary project is [FarkoGPT](https://github.com/DeenAthani/farko-gpt), a from-scratch neural translation system for the Twi ↔ Hausa language pair. Twi (Kwa/Niger-Congo) and Hausa (Chadic/Afroasiatic) come from entirely different language families with deeply different morphological systems, tonal structures, and syntactic patterns.
 
-**Research question:** Can cross-lingual transfer African languages enable direct neural machine translation between typologically distant low-resource pairs without English as a pivot?
+**Research question:** Can cross-lingual transfer African languages enable direct neural machine translation between typologically distant pairs without English as a pivot?
 
 *Active research. First results expected Q3 2026.*
