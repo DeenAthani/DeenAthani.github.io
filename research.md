@@ -5,24 +5,12 @@ title: Research
 
 ## Research
 
-My research interests are broadly in areas where AI systems can be made more capable, efficient, and aligned with human understanding. I am particularly focused on:
+My research centers on machine translation for African languages — specifically, building systems that translate directly between typologically distant language pairs without routing through English. I'm interested in how cross-lingual representations form (or fail to form) when languages share neither family, morphological type, nor tonal system.
 
-### Computer Vision
+### Machine Translation for West African Languages
 
-Visual perception, scene understanding, and object recognition. Interested in how machines can develop robust visual representations that generalize across domains.
+My primary project is [FarkoGPT](https://github.com/DeenAthani/farko-gpt), a from-scratch neural translation system for the Twi ↔ Hausa language pair. Twi (Kwa/Niger-Congo) and Hausa (Chadic/Afroasiatic) come from entirely different language families with deeply different morphological systems, tonal structures, and syntactic patterns.
 
-### Machine Translation
+**Research question:** Can cross-lingual transfer African languages enable direct neural machine translation between typologically distant low-resource pairs without English as a pivot?
 
-Neural approaches to language translation, with emphasis on low-resource languages and cross-lingual transfer learning.
-
-### NeuroAI
-
-Exploring the connections between biological neural systems and artificial neural networks to develop more efficient and interpretable learning algorithms.
-
-### Robotics
-
-Embodied intelligence, sensorimotor learning, and how physical interaction with the world can ground language and perception.
-
----
-
-*Research projects and results coming in Q3 2026. Stay tuned.*
+*Active research. First results expected Q3 2026.*
