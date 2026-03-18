@@ -8,28 +8,30 @@ layout: default
 
 <p class="about-subtitle">B.S. Computer Science · <a href="https://wgu.edu">Western Governors University</a></p>
 
-Focus is in **AI, ML, and scientific computing**. My primary interests lie at the intersection of mathematics and systems engineering, with particular focus on **Computer Vision** and **Machine Translation**.
+I study **neural machine translation for West African languages**, with emphasis on direct translation between typologically distant language pairs. I'm building [FarkoGPT](https://github.com/DeenAthani/farko-gpt), a from-scratch translation system for Twi ↔ Hausa — two languages from entirely different families (Kwa and Chadic) where parallel data is nearly nonexistent.
+
+My broader interests lie in **efficient transformer architectures for compute-constrained settings** and the mathematics of positional encoding in sequence models.
 
 Feel free to reach out through my [email](mailto:staymu1@wgu.edu) or find me on [Twitter](https://x.com/Athani_X).
 
 ## Research Interests
 
 <ul class="research-areas">
-  <li class="research-area-item"><strong>LLM Research</strong> — machines understanding human language</li>
-  <li class="research-area-item"><strong>Computer Vision</strong> — visual perception and scene understanding</li>
-  <li class="research-area-item"><strong>NeuroAI</strong> — bridging neuroscience and machine learning</li>
-  <li class="research-area-item"><strong>Robotics</strong> — embodied intelligence and sensorimotor learning</li>
+  <li class="research-area-item"><strong>Low-Resource Machine Translation</strong> — direct NMT between West African language pairs without English pivoting</li>
+  <li class="research-area-item"><strong>Cross-Lingual Transfer</strong> — how typological distance affects representation learning across language families</li>
+  <li class="research-area-item"><strong>Efficient Architectures</strong> — transformer design for compute-constrained and data-scarce settings</li>
+  <li class="research-area-item"><strong>Positional Encoding</strong> — rotary embeddings, morphological structure, and sequence representation</li>
 </ul>
 
 ## Latest Posts
 
 |  |  |
 | --- | --- |
-| 2026 | Posts coming soon — follow along on [Hashnode](https://deenathani.hashnode.dev) |
+| 2026 | [Understanding Rotary Position Embedding (RoPE)](https://deenathani.hashnode.dev) — from intuition to implementation |
 
-## Publications
+## Current Work
 
-1. None yet — check back in Q3 2026.
+**FarkoGPT** — Building a direct neural translation system between Twi and Hausa from scratch. The research question: *Can cross-lingual transfer from related African languages enable direct NMT between typologically distant pairs without English as a pivot?* Code and data at [github.com/DeenAthani/farko-gpt](https://github.com/DeenAthani/farko-gpt).
 
 ---
 
